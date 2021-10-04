@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637683261705815888
-    m_Hash: 3514944958
+      ticks: 637689244237610081
+    m_Hash: 3531869884
   m_LockFileStatus:
     m_FilePath: D:/gusgual/gus-gual-tema1/gusgual mi primer proyecto/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637683261738842389
-    m_Hash: 3518015605
+      ticks: 637689244237620053
+    m_Hash: 51398154
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
